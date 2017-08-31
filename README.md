@@ -12,11 +12,11 @@ Code samples in `knn_digits.q` are intended to assist the user with building, te
 * benchmark a classifier
 
 To start the whitepaper demonstration, download the training and validation set mentioned in Chapter 1, and run from the same folder: 
-```q
+```bash
 q knn_digits.q -s x
 ```
 To load the the k-NN library:
-```q
+```bash
 q knn_utils.q -s x
 ```
 Or
