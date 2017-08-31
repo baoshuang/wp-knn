@@ -1,4 +1,4 @@
-# knn-kdb
+# wp-knn
 This repository contains all code samples described in the Machine Learning in kdb+: k-NN classification and pattern recognition with q whitepaper.
 
 
