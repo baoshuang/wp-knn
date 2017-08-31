@@ -1,6 +1,6 @@
 # wp-knn
 
-This repository contains all code samples described in the [_Machine Learning in kdb+: k-Nearest Neighbor classification and pattern recognition with q ](http://code.kx.com/q/wp/machine_learning_in_kdb.pdf) whitepaper.
+This repository contains all code samples described in the [_Machine Learning in kdb+: k-Nearest Neighbor classification and pattern recognition with q_](http://code.kx.com/q/wp/machine_learning_in_kdb.pdf) whitepaper.
 
 
 Code samples in `knn_digits.q` are intended to assist the user with building, testing, and benchmarking a k-NN classifier.
